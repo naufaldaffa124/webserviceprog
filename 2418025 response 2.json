@@ -1,0 +1,1 @@
+{"status":false,"message":"Validasi gagal","data":{"title":["The title field is required."],"author":["The author field is required."],"year":["The year field is required."],"stock":["The stock field is required."]}}
